@@ -1,3 +1,8 @@
 spring:
   application:
     name: banking-system
+
+  mongodb:
+    host: localhost
+    port: 27017
+#    database:
